@@ -26,7 +26,7 @@ public class LiczbaSlownie {
             "dziewięćset ", };
 
     static String[][] grupy = { { "", "", "" },
-            { "tysiąc ", "tysięce ", "tysięcy " },
+            { "tysiąc ", "tysiące ", "tysięcy " },
             { "milion ", "miliony ", "milionów " },
             { "miliard ", "miliardy ", "miliardów " },
             { "bilion ", "biliony ", "bilionów " },
